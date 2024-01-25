@@ -10,6 +10,8 @@ namespace GitDemoProject
     {
         static void Main(string[] args)
         {
+            int a = 19;
+            Console.WriteLine(a);
         }
     }
 }
